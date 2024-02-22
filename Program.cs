@@ -5,7 +5,7 @@ class WeaponManager {
 	List<Weapon> _weapons = new List<Weapon>();
 
 	public WeaponManager() {
-		
+
 	}
 
 	public void Run() {
